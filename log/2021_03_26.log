@@ -1,0 +1,24 @@
+[2021-03-26 09:12:33,994]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2021-03-26 09:13:33'}
+[2021-03-26 09:12:34,293]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 32023, "message": "有效期时间与当前时间的间隔必须大于1分钟且小于1年", "timestamp": 1616721157137}
+[2021-03-26 09:12:34,466]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2022-03-28 09:12:34'}
+[2021-03-26 09:12:34,578]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 32023, "message": "有效期时间与当前时间的间隔必须大于1分钟且小于1年", "timestamp": 1616721157429}
+[2021-03-26 09:12:34,705]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2021-03-26 09:14:34'}
+[2021-03-26 09:12:35,483]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 200, "data": "dev-api.lzsk.vip/d/wpODvj", "message": "操作成功！", "timestamp": 1616721158332}
+[2021-03-26 10:08:11,020]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2021-03-26 10:09:11'}
+[2021-03-26 10:08:11,506]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 32023, "message": "有效期时间与当前时间的间隔必须大于1分钟且小于1年", "timestamp": 1616724494358}
+[2021-03-26 10:08:12,127]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2022-03-28 10:08:12'}
+[2021-03-26 10:08:12,179]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 32023, "message": "有效期时间与当前时间的间隔必须大于1分钟且小于1年", "timestamp": 1616724495045}
+[2021-03-26 10:08:12,410]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2021-03-26 10:10:12'}
+[2021-03-26 10:08:13,312]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 200, "data": "dev-api.lzsk.vip/d/wKVDVj", "message": "操作成功！", "timestamp": 1616724496171}
+[2021-03-26 10:55:20,656]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': ('2021-03-26 10:56:20', '有效期时间与当前时间的间隔必须大于1分钟且小于1年')}
+[2021-03-26 10:55:20,995]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 3001, "message": "非法的输入数据！", "timestamp": 1616727323877}
+[2021-03-26 10:56:54,791]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': ('2021-03-26 10:57:54', '有效期时间与当前时间的间隔必须大于1分钟且小于1年')}
+[2021-03-26 10:56:54,911]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 3001, "message": "非法的输入数据！", "timestamp": 1616727417795}
+[2021-03-26 11:07:36,965]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2021-03-26 11:08:36'}
+[2021-03-26 11:07:37,059]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 32023, "message": "有效期时间与当前时间的间隔必须大于1分钟且小于1年", "timestamp": 1616728059942}
+[2021-03-26 11:07:37,196]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2022-03-28 11:07:36'}
+[2021-03-26 11:07:37,247]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 32023, "message": "有效期时间与当前时间的间隔必须大于1分钟且小于1年", "timestamp": 1616728060130}
+[2021-03-26 16:09:48,305]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2021-03-26 16:10:48'}
+[2021-03-26 16:09:50,984]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 3001, "message": "是否永久有效不能为空\n", "timestamp": 1616746193949}
+[2021-03-26 16:09:51,571]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2022-03-28 16:09:48'}
+[2021-03-26 16:09:51,633]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 3001, "message": "是否永久有效不能为空\n", "timestamp": 1616746194604}

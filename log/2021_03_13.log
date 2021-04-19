@@ -1,0 +1,6 @@
+[2021-03-13 17:00:35,953]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2021-03-13 17:01:35'}
+[2021-03-13 17:00:36,403]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 32023, "message": "有效期时间与当前时间的间隔必须大于1分钟且小于1年", "timestamp": 1615626037215}
+[2021-03-13 17:00:36,556]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2022-03-15 17:00:36'}
+[2021-03-13 17:00:36,641]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 32023, "message": "有效期时间与当前时间的间隔必须大于1分钟且小于1年", "timestamp": 1615626037460}
+[2021-03-13 17:00:36,767]-loggers.py[line:44]-fuc:__console-INFO:入参：{'linkTypeCode': 'fixed', 'miniAppId': 66, 'params': {'pageCode': 'maotaiPreorderIndex', 'pagePath': 'index/pages/index/index'}, 'expireTime': '2021-03-13 17:02:36'}
+[2021-03-13 17:00:37,637]-loggers.py[line:44]-fuc:__console-INFO:出参：{"code": 200, "data": "dev-api.lzsk.vip/d/wE0M2j", "message": "操作成功！", "timestamp": 1615626038439}
