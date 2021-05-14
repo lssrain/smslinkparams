@@ -12,7 +12,7 @@ class Log:
         else:
             os.makedirs(log_path)
         # self.logname = os.path.join(log_path,'%s.log'%time.strftime('%Y_%m_%d_%H_%M_%S'))
-        self.logname = os.path.join(log_path, '%s.log' % time.strftime('%Y_%m_%d'))
+        self.logname = os.path.join(log_path, '%s.log' % time.strftime('%Y_%m_%d')) #在对应文件夹下创建log格式文件
         self.logger = logging.getLogger()
         self.logger.setLevel(logging.DEBUG)
         # 日志输出格式
@@ -20,10 +20,14 @@ class Log:
             '[%(asctime)s]-%(filename)s[line:%(lineno)d]-fuc:%(funcName)s-%(levelname)s:%(message)s')
 
     def logpath(self):
+        '''
+        获取文件夹路径
+        :return:
+        '''
         # logdir=os.path.split(os.path.realpath(os.getcwd()))[0]
         # logpath = os.path.join(logdir, 'log')
         curPath = os.path.abspath(os.path.dirname(__file__))
-        rootPath = os.path.split(curPath)[0]
+        rootPath = os.path.split(curPath)[0] #获取根目录文件夹
         logpath = os.path.join(rootPath, 'log')
         return logpath
 
