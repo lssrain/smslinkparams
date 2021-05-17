@@ -24,8 +24,8 @@ def tokens():
     url = 'https://sit-hlj.rainbowcn.com/api/v1/dubhe-auth/user/th-idm/login'
     json = {
         "smsCode": "",
-        "account": "127458",
-        "password": "lss@123456",
+        "account": "xxxxxxxx",
+        "password": "xxxxxxx",
         "selfDevice": 0
     }
     # loginfo.info('接口:{},入参:{}'.format(url, json))

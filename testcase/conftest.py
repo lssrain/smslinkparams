@@ -18,8 +18,8 @@ def token():
     url = 'https://sit-hlj.rainbowcn.com/api/v1/dubhe-auth/user/th-idm/login'
     json = {
         "smsCode": "",
-        "account": "127458",
-        "password": "lss@123456",
+        "account": "xxxxxxx",
+        "password": "xxxxxx",
         "selfDevice": 0
     }
     token = requests.post(url, json=json, verify=False)
